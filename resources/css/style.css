@@ -30,3 +30,7 @@ h3 {
   text-align: right;
   color: gray;
 }
+
+video {
+  object-fit: contain;
+}
